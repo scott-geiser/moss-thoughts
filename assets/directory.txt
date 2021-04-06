@@ -1,0 +1,8 @@
+./SCIENTIFIC_NAME/... ? or how do I store this? 
+
+going to need a context that pulls an object from a file. This object/data should have 
+
+
+latin: scientific name
+commonName: common name
+templateImg: 
